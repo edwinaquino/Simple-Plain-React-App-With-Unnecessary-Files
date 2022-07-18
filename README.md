@@ -4,7 +4,7 @@ This is a simple starter React template with some unnecessary file that have bee
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager git and npm to install.
 
 ```bash
 $ git clone https://github.com/edwinaquino/Simple-Plain-React-App-With-Unnecessary-Files.git
